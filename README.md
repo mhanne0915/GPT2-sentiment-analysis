@@ -10,7 +10,7 @@ Here's how you train it.
 
 (update: using max's new code https://github.com/minimaxir/aitextgen it's way faster, and using the smaller model is probably better for this small task, just 2000 iterations and it's at 0.03 loss, pretty fucking good if you ask me)
 
-Now that it's set up, you should format your prompts like this:
+Now that it's set up, you should format your prompts like this (IF YOU'RE USING IT FOR SENTIMENT ANALYSIS, AS IS PROVIDED, OTHERWISE *AHEM JEFF SINK* THIS IS NOT NEEDED, AND THAT POINT SHOULD HAVE BEEN PAINFULLY OBVIOUS TO THE GENERAL OBSERVER, BUT NOT TO A STANFORD STUDENT APARENTLY [paper im making fun of](http://cs230.stanford.edu/projects_fall_2020/reports/55814965.pdf)):
 
     // your prompt here ||
     
